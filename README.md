@@ -1,8 +1,7 @@
 # Dijsktra-toy
 
-This README outlines the details of collaborating on this Ember application.
-
-A short introduction of this app could easily go here.
+Toy implementation of Dijkstra's algorithm.  Designed to be a learning tool as,
+ not studying Computer Science / Software Engineering, I never formally learn't Dijkstra's algorithm.
 
 ## Prerequisites
 
@@ -22,10 +21,6 @@ You will need the following things properly installed on your computer.
 
 * `ember server`
 * Visit your app at http://localhost:4200.
-
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
 
 ### Running Tests
 
